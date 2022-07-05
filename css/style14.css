@@ -1,0 +1,150 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.container{
+	display: flex;
+	flex-direction: row;
+}
+
+.container .box{
+	padding: 30px 60px;
+	color: white;
+}
+
+.container .box1{
+	background-color: green;
+}
+
+.container .box2{
+	background-color: blue;
+}
+
+.container .box3{
+	background-color: violet;
+}
+
+.container .box4{
+	background-color: grey;
+}
+
+.container .box5{
+	background-color: orange;
+}
+
+.container .box6{
+	background-color: pink;
+}
+
+.container .box7{
+	background-color: red;
+}
+
+.container .box8{
+	background-color: skyblue;
+}
+
+.container .box9{
+	background-color: lightblue;
+}
+
+.container .box10{
+	background-color: black;
+}
+
+/*box 2*/
+.container2{
+	display: flex;
+	flex-direction: column;
+}
+
+.container2 .box{
+	text-align: center;
+	padding: 20px 0;
+	width: 200px;
+	height: 30px;
+	color: white;
+}
+
+.container2 .box1{
+	background-color: green;
+}
+
+.container2 .box2{
+	background-color: blue;
+}
+
+.container2 .box3{
+	background-color: violet;
+}
+
+.container2 .box4{
+	background-color: grey;
+}
+
+.container2 .box5{
+	background-color: orange;
+}
+
+.container2 .box6{
+	background-color: pink;
+}
+
+.container2 .box7{
+	background-color: red;
+}
+
+.container2 .box8{
+	background-color: skyblue;
+}
+
+.container3{
+	display: flex;
+	flex-direction: row;
+}
+
+.container3 .box{
+	padding: 30px 60px;
+	color: white;
+}
+
+.container3 .box1{
+	background-color: green;
+}
+
+.container3 .box2{
+	background-color: blue;
+}
+
+.container3 .box3{
+	background-color: violet;
+}
+
+.container3 .box4{
+	background-color: grey;
+}
+
+.container3 .box5{
+	background-color: orange;
+}
+
+.container3 .box6{
+	background-color: pink;
+}
+
+.container3 .box7{
+	background-color: red;
+}
+
+.container3 .box8{
+	background-color: skyblue;
+}
+
+.container3 .box9{
+	background-color: lightblue;
+}
+
+.container3 .box10{
+	background-color: black;
+}
